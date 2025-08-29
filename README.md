@@ -13,16 +13,21 @@ I aim to leverage technology to build scalable solutions that solve real-world p
 
 ## 🛠️ Skills & Tools
 
-Programming Languages
+| **Languages & Frameworks** | **Libraries & Tools** | **Platforms & Cloud** |
+|-----------------------------|------------------------|------------------------|
+| Python                      | NumPy                 | IBM Cloud             |
+| C++                         | Pandas                | Google Cloud          |
+| C                           | Matplotlib            | Vercel                |
+| Java                        | Seaborn               | Render                |
+| JavaScript                  | Scikit-learn          | IBM Watson Studio     |
+| HTML                        | SQLite                | Postman               |
+| CSS                         | SQL                   | Jupyter Notebook      |
+| React                       | MongoDB               | VS Code               |
+| Tailwind CSS                | Git                   |                        |
+| Node.js                     | GitHub                |                        |
+| Express.js                  |                        |                        |
+| Flask                       |                        |                        |
 
-Languages & Frameworks:
-Python | C++ | C | Java | JavaScript | HTML | CSS | React | Tailwind CSS | Node.js | Express.js | Flask
-
-Libraries & Tools:
-NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | SQLite | SQL | MongoDB | Git | GitHub
-
-Platforms & Cloud:
-IBM Cloud | Google Cloud | Vercel | Render | IBM Watson Studio | Postman | Jupyter Notebook | VS Code
 
 ## Other Skills
 
