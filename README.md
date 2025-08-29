@@ -2,7 +2,8 @@
 
 ## 🌟 About Me
 
-I am currently a CSE Sophomore at JECRC College, Jaipur, with a passion for Web Development and Data Structures & Algorithms (DSA). The world of technology always sparks curiosity in me, and I aim to create solutions for real-world problems using the magic of technology.
+I am a Pre-Final Year Computer Science & Engineering student at JECRC College, Jaipur, passionate about Web Development, Artificial Intelligence, and Data Structures & Algorithms (DSA).
+I aim to leverage technology to build scalable solutions that solve real-world problems.
 
 ## 🔭 My Interests
 
@@ -14,7 +15,14 @@ I am currently a CSE Sophomore at JECRC College, Jaipur, with a passion for Web 
 
 Programming Languages
 
-C, C++, Python, HTML, CSS, JavaScript
+Languages & Frameworks:
+Python | C++ | C | Java | JavaScript | HTML | CSS | React | Tailwind CSS | Node.js | Express.js | Flask
+
+Libraries & Tools:
+NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | SQLite | SQL | MongoDB | Git | GitHub
+
+Platforms & Cloud:
+IBM Cloud | Google Cloud | Vercel | Render | IBM Watson Studio | Postman | Jupyter Notebook | VS Code
 
 ## Other Skills
 
@@ -26,11 +34,11 @@ Object-Oriented Programming (OOPs)
 
 B.Tech, Computer Science & Engineering
 
-2nd Year, JECRC College, Jaipur
+3rd Year, JECRC College, Jaipur
 
-SGPA: 1st Semester: 9.51 / 10 | 2nd Semester: 9.80 / 10
+SGPA: 1st Semester: 9.51 / 10 | 2nd Semester: 9.80 / 10 | 3rd Semester: 9.61 / 10 
 
-Current CGPA: 9.65 / 10
+Current CGPA: 9.61 / 10
 
 ## 🏆 Achievements
 
