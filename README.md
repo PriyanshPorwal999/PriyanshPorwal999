@@ -2,14 +2,17 @@
 
 ## 🌟 About Me
 
-I am a Pre-Final Year Computer Science & Engineering student at JECRC College, Jaipur, passionate about Web Development, Artificial Intelligence, and Data Structures & Algorithms (DSA).
-I aim to leverage technology to build scalable solutions that solve real-world problems.
+🎓 Pre-Final Year | Computer Science & Engineering
+💼 Infosys Springboard 6.0 Intern
+🤖 AI/ML Enthusiast | Full-Stack Developer | Problem Solver
 
 ## 🔭 My Interests
 
-🌐 Web Development
-
 🤖 Artificial Intelligence and Machine Learning
+
+💻 LLMs, Generative AI, Agentic Systems
+
+🌐 Web Development
 
 ## 🛠️ Skills & Tools
 
@@ -25,8 +28,8 @@ I aim to leverage technology to build scalable solutions that solve real-world p
 | React                       | MongoDB               | VS Code               |
 | Tailwind CSS                | Git                   |                        |
 | Node.js                     | GitHub                |                        |
-| Express.js                  |                        |                        |
-| Flask                       |                        |                        |
+| Express.js                  | Tensorflow                      |                        |
+| Flask                       | Keras                       |                        |
 
 
 ## Other Skills
